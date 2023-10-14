@@ -1,0 +1,10 @@
+VETOR:
+Faça um programa com função que leia 5 números em um vetor e os exiba dobrados
+
+MATRIZ:
+O Programa faz a SOMA e Multiplica (A.B e B.A) das matrizes.
+
+ARQUIVO:
+Crie um programa que cadastre funcionario, inserindo nome, função e salário, e exclua os cadastros
+
+FUNÇÃO : Em construção o código:
